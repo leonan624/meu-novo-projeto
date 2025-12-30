@@ -1,2 +1,3 @@
-# API Phython p/ conectar com SGBD ProstgreSQL
-projeto p/ estudos
+# PYTHON API FOR POSTGRESQL
+
+Hello! This script outlines all the required syntax to establish a connection with a database.
